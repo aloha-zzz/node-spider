@@ -1,0 +1,25 @@
+{
+  "name": "node-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouhaoxiang/node-spider.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouhaoxiang/node-spider/issues"
+  },
+  "homepage": "https://github.com/zhouhaoxiang/node-spider#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "clusters": "^0.0.4",
+    "node-xlsx": "^0.12.0"
+  }
+}
